@@ -1,6 +1,3 @@
----
-title-heading: false
----
 # CLRSCR() DOMAIN
 
 This is all my works and served as my host server too, NFT based on SLP of Bitcoin Cash
