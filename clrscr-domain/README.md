@@ -1,8 +1,8 @@
 # CLRSCR() DOMAIN
 
-This is all my works and served as my host server too, NFT based on SLP of Bitcoin Cash
+This is served as my host server, all images are came from different people - NFT based on SLP of Bitcoin Cash
 
-This folders contains all images and icons of my artworks.
+This folders contains all images and icons of artworks by different people. I only minting their artwork for free and sending to their SLP Address.
 
 Thanks to @VideoGameDana / Dana Alcala about details on how to create an SLP NFT that displays artwork properly on both SLP Explorer and juungle.net!
 
