@@ -9,7 +9,7 @@ Thanks to @VideoGameDana / Dana Alcala about details on how to create an SLP NFT
 Link: https://read.cash/@VideoGameDana/how-to-create-an-slp-nft-that-displays-artwork-properly-on-both-slp-explorer-and-juunglenet-021e54a3
 
 
-List of People who minted their Collections
+<b>List of People who minted their Collections</b>
 
 Aila
 - Yua Ichika : The Dream Girl : https://simpleledger.info/#token/9ee4a3bc29315df330e937797f18429d4a9298ec1f7237568b4d7a3cb8df04d2
