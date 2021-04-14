@@ -1,15 +1,15 @@
 # CLRSCR() DOMAIN
 
-This is served as my host server, all images are came from different people - NFT based on SLP of Bitcoin Cash
+This is served as my host server, all images are came from different person - NFT based on SLP of Bitcoin Cash
 
-This folders contains all images and icons of artworks by different people. I only minting their artwork for free and sending to their SLP Address.
+This folders contains all images and icons of artworks by different persons. I only minting their artwork for free and sending to their SLP Address.
 
 Thanks to @VideoGameDana / Dana Alcala about details on how to create an SLP NFT that displays artwork properly on both SLP Explorer and juungle.net!
 
 Link: https://read.cash/@VideoGameDana/how-to-create-an-slp-nft-that-displays-artwork-properly-on-both-slp-explorer-and-juunglenet-021e54a3
 
 
-<b>List of People who minted their Collections</b>
+<b>List of Persons who minted their Collections</b>
 
 Aila
 - Yua Ichika : The Dream Girl : https://simpleledger.info/#token/9ee4a3bc29315df330e937797f18429d4a9298ec1f7237568b4d7a3cb8df04d2
