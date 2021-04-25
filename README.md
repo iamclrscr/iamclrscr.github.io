@@ -18,6 +18,3 @@ My Personal Portfolio
 - 04/22/2021 : HJC Token Verified in SLP Explorer
   Token Link : https://simpleledger.info/token/72ba25266669682e91862c65fb7adc35b1425385a598cfcd9664c57b4286218f
   
-  
-  <iframe src='https://donatebutton.cash/e?a=qpnxreap0dv0y65f957syngw4lqp4zxfqyw93hn0ah&l=Donation' width='150' height='150' style='border:none;overflow:hidden'></iframe>
-  
